@@ -1,10 +1,8 @@
---O Programa das Nações Unidas para o Desenvolvimento (PNUD) e a Organização das Nações Unidas (ONU)
-
---Introdução
+**O Programa das Nações Unidas para o Desenvolvimento (PNUD) e a Organização das Nações Unidas (ONU)**
 
 O Programa das Nações Unidas para o Desenvolvimento (PNUD) é uma agência da Organização das Nações Unidas (ONU) dedicada à promoção do desenvolvimento sustentável e à erradicação da pobreza em todo o mundo. Com sede em Nova York, o PNUD atua em mais de 170 países e territórios, oferecendo suporte técnico e financeiro para a implementação de políticas públicas que visam melhorar a qualidade de vida das populações mais vulneráveis.
 
---Objetivos e Mandato
+**Objetivos e Mandato**
 
 O principal mandato do PNUD é promover o desenvolvimento humano sustentável, que envolve a erradicação da pobreza, a redução das desigualdades e a exclusão social. Para alcançar esses objetivos, o PNUD trabalha em estreita colaboração com governos, sociedade civil, setor privado e outras agências da ONU. Entre suas principais áreas de atuação estão:
 
@@ -13,13 +11,13 @@ Desigualdade e Exclusão Social: Desenvolvimento de políticas que promovam a in
 Desenvolvimento Sustentável: Apoio a iniciativas que promovam o uso sustentável dos recursos naturais e a proteção do meio ambiente.
 Governança Democrática: Fortalecimento das instituições democráticas e promoção da transparência e da participação do cidadão.
 
---Estrutura e Funcionamento
+**Estrutura e Funcionamento**
 
 O PNUD é financiado por contribuições voluntárias de países membros da ONU e de outras fontes, como o setor privado e organizações não governamentais. A agência é liderada por um Administrador, que é nomeado pelo Secretário-Geral da ONU e aprovado pela Assembleia Geral.
 
 No Brasil, o PNUD atua em parceria com o governo federal, estados, municípios, sociedade civil e setor privado para implementar projetos que visam o desenvolvimento sustentável e a redução das desigualdades. A atuação do PNUD no país está alinhada com a Agenda 2030 e os Objetivos de Desenvolvimento Sustentável (ODS), que são um conjunto de metas globais estabelecidas pela ONU para erradicar a pobreza, proteger o planeta e garantir a prosperidade para todos. O PNUD desempenha um papel crucial na promoção do desenvolvimento sustentável e na erradicação da pobreza em todo o mundo. Através de suas parcerias e iniciativas, a agência contribui para a construção de um futuro mais justo e equitativo para todos. A atuação do PNUD no Brasil é um exemplo de como a cooperação internacional pode gerar resultados concretos e duradouros em prol do desenvolvimento humano
 
---CNJ 
+**CNJ**
 
 Fortalecer capacidades do Poder Judiciário para a promoção de direitos humanos, socioambientais e do acesso à Justiça por populações estruturalmente vulnerabilizadas está no cerne de novo projeto de cooperação firmado entre o Conselho Nacional de Justiça (CNJ) e o PNUD. A iniciativa passa a compor o leque de projetos entre as duas instituições que inclui, entre outras, ações voltadas à inovação e à transformação digital por meio do Programa Justiça 4.0 e à promoção de mudanças no campo da privação de liberdade por meio do Fazendo Justiça. 
 
