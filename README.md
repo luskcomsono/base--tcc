@@ -92,15 +92,13 @@ Além disso, a colaboração entre o CNJ e o PNUD contribui diretamente para o c
 **Conclusão**
 A parceria entre o CNJ e o PNUD é um exemplo claro de como a cooperação internacional e o trabalho conjunto entre diferentes instituições podem gerar resultados positivos no fortalecimento do sistema judiciário e na promoção dos direitos humanos no Brasil. Com projetos inovadores e focados na inclusão social, essas duas instituições desempenham um papel crucial na melhoria do acesso à justiça e no combate às desigualdades que ainda persistem no país.
 
-Referências:
+**Referências:**
 
-UNDP. PNUD e CNJ assinam projeto focado em direitos humanos e acesso à Justiça. Programa das Nações Unidas para o Desenvolvimento. Disponível em: https://www.undp.org/pt/brazil/news/pnud-e-cnj-assinam-projeto-focado-em-direitos-humanos-e-acesso-justica. Acesso em: 06 mar. 2025.
+UNDP. PNUD e CNJ assinam projeto focado em direitos humanos e acesso à Justiça. Programa das Nações Unidas para o Desenvolvimento. Disponível em: https://www.undp.org/pt/brazil/news/pnud-e-cnj-assinam-projeto-focado-em-direitos-humanos-e-acesso-justica. 
 
-UNDP. Sobre o PNUD. Programa das Nações Unidas para o Desenvolvimento. Disponível em: https://www.undp.org/pt/brazil/sobre-o-pnud. Acesso em: 06 mar. 2025.
+UNDP. Sobre o PNUD. Programa das Nações Unidas para o Desenvolvimento. Disponível em: https://www.undp.org/pt/brazil/sobre-o-pnud.
 
-WIKIPEDIA. Programa das Nações Unidas para o Desenvolvimento. Wikipedia, a enciclopédia livre. Disponível em: https://pt.wikipedia.org/wiki/Programa_das_Na%C3%A7%C3%B5es_Unidas_para_o_Desenvolvimento. Acesso em: 06 mar. 2025.
-
-**Fontes:** 
+WIKIPEDIA. Programa das Nações Unidas para o Desenvolvimento. Wikipedia, a enciclopédia livre. Disponível em: https://pt.wikipedia.org/wiki/Programa_das_Na%C3%A7%C3%B5es_Unidas_para_o_Desenvolvimento.
 
 UNDP. O PNUD e a ONU. Programa das Nações Unidas para o Desenvolvimento. Disponível em: https://www.undp.org/pt/brazil/o-pnud-e-onu
 
