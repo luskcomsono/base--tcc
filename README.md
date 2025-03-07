@@ -31,11 +31,6 @@ Alinhado com Estratégia 2021-2026 do CNJ que prevê, dentre outros valores, “
 
 Considerando as especificidades dos diferentes grupos populacionais aos quais se destina a iniciativa, o projeto terá ações focadas nas necessidades de crianças e adolescentes em situação de abrigamento, mulheres, pessoas LGBTQIA+, populações indígenas e demais povos e comunidades tradicionais, pessoas em situação de rua, idosos e pessoas com deficiência, famílias de pessoas desaparecidas, bem como aquelas vulnerabilizadas por questões socioambientais e raciais. O projeto considera também a interseccionalidade dos diferentes públicos e, por isso, prevê uma abordagem conectada às especificidades de cada tipo de opressão e das conexões entre elas, com iniciativas relacionadas aos direitos humanos e com priorização do enfrentamento ao racismo.
 
-
-**O Programa das Nações Unidas para o Desenvolvimento (PNUD) e a Organização das Nações Unidas (ONU)**
-
-O Programa das Nações Unidas para o Desenvolvimento (PNUD) é uma agência da Organização das Nações Unidas (ONU) dedicada à promoção do desenvolvimento sustentável e à erradicação da pobreza em todo o mundo. Com sede em Nova York, o PNUD atua em mais de 170 países e territórios, oferecendo suporte técnico e financeiro para a implementação de políticas públicas que visam melhorar a qualidade de vida das populações mais vulneráveis.
-
 **Objetivos e Mandato**
 
 O principal mandato do PNUD é promover o desenvolvimento humano sustentável, que envolve a erradicação da pobreza, a redução das desigualdades e a exclusão social. Para alcançar esses objetivos, o PNUD trabalha em estreita colaboração com governos, sociedade civil, setor privado e outras agências da ONU. Entre suas principais áreas de atuação estão:
